@@ -3,7 +3,7 @@ description: A new Flutter project.
 
 
 publish_to: 'none'
-uses-material-design: true
+
 
 version: 1.0.0+1
 
@@ -29,7 +29,7 @@ dev_dependencies:
 
 flutter:
 
-
+  uses-material-design: true
 
   assets:
    - images/
